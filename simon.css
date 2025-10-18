@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-image:url('./images/img3.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;   
+    background-position: center;
+}
+
+.d{
+    width: 200px;
+    height: 200px;
+    border: 9px solid black;
+    border-radius: 20%;
+    margin: 2rem;
+
+}
+.cantainer{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.btn1{
+    background-color:#f99b45;
+
+}
+.btn2{
+    background-color:#d95980;
+    
+}
+.btn3{
+    background-color:#63aac0;
+    
+}
+.btn4{
+    background-color:#7a3a77;
+    
+}
+.flash{
+    background-color:white;
+}
+.userflash{
+    background-color:rgb(49, 121, 49);
+}
